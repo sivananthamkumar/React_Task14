@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="home">
 
-      <h1>Welcome to TechStore</h1>
+      <h1>Welcome to SivaStore</h1>
 
       <p>
         Find the latest smartphones at affordable prices.
